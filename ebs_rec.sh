@@ -9,7 +9,7 @@ RADIO_NAME="ebs_radio"
 if [ $# -lt 3 ] 
   then
   echo $0": insufficient arguement!"
-  echo "usage: $0 [program_name] [recording_time(min)] [target_dir]"
+  echo "usage: $0 [program name without blank] [recording_time(min)] [will saved target directory]"
   exit 1
 fi
 
