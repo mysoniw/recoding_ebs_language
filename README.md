@@ -14,7 +14,7 @@ rtsp streaming radio to mp3 file
 
 *If you don't installed brew, [here](http://brew.sh/index_ko.html) is the tutorial*
 
-## Regist Crontab
+## Regist crontab
 
 ```shell
 crontab -e
