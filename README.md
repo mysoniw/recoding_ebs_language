@@ -10,7 +10,7 @@ rtsp streaming radio to mp3 file
 - OSX Yosemite 10.10.5
 - rtmpdump (brew install rtmpdump)
 - ffmpeg (brew install ffmpeg)
-- lame (brew install ffmpeg)
+- lame (brew install lame)
 
 *If you don't installed brew, [here](http://brew.sh/index_ko.html) is the tutorial*
 
